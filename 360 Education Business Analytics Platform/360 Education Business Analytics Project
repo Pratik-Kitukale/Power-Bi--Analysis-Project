@@ -1,0 +1,10 @@
+**1. 360° Education Business Analytics Platform**
+**Tools & Technologies:** Power BI, Power Query, DAX, Excel, MySQL
+
+* Designed and developed an interactive **Power BI business analytics platform** for a multi-branch educational institute, integrating **sales, admissions, finance, placement, and marketing data** into a centralized reporting solution.
+* Built **4 interactive dashboards** — Executive, Sales & Admission, Placement, and Financial Analytics — enabling management to monitor **revenue, admissions, lead conversion, placements, and fee collection**.
+* Designed a **Star Schema data model** using fact and dimension tables to establish efficient relationships and support scalable business reporting.
+* Developed **20+ DAX measures** for key KPIs including **Total Revenue, Admission Conversion Rate, Placement Rate, Effective Call %, Pending Fees, Average Revenue per Admission, and Fee Collection Efficiency**.
+* Analyzed **2,000+ admissions, ₹66M total revenue, 697 placed students, and ₹14M pending fees**, generating actionable insights to improve admissions, placement performance, and fee collection.
+
+
