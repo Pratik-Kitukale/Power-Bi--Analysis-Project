@@ -1,0 +1,138 @@
+🎓 360 Education Business Analytics Platform
+📌 Project Overview
+
+This project is an End-to-End Business Analytics Dashboard developed using Microsoft Power BI for a multi-branch education institute.
+
+The dashboard enables management to monitor admissions, revenue, lead conversions, placements, and fee collection through interactive visualizations and KPIs.
+
+🚀 Business Problem
+
+Educational institutions receive thousands of student inquiries from multiple marketing channels such as:
+
+LinkedIn
+Website
+Walk-ins
+Referrals
+YouTube
+Instagram
+
+The management struggled to analyze:
+
+Revenue
+Admissions
+Placements
+Marketing performance
+Fee Collection
+
+This project solves these challenges through an interactive Power BI dashboard.
+
+🛠 Tech Stack
+Power BI Desktop
+Power Query
+DAX
+Excel
+Data Modeling
+Data Cleaning
+Interactive Dashboard
+📊 Dashboard Pages
+Executive Dashboard
+
+Total Revenue
+Total Admissions
+Total Students
+Pending Fees
+Placement Rate
+Monthly Revenue Trend
+Branch Revenue Analysis
+Student Distribution
+
+Admission Trend
+Sales Dashboard
+Lead Funnel
+Lead Source Conversion
+Branch Conversion
+Effective Call %
+Average Revenue per Admission
+
+Counselor Performance
+Placement Dashboard
+Placement Funnel
+Placement Rate
+Average Salary
+Company-wise Hiring
+Placement Trend
+Branch Placement Performance
+
+Financial Dashboard
+Revenue Trend
+Fee Collection Trend
+Pending Fees
+Payment Mode Analysis
+Branch Revenue
+Course Revenue Contribution
+
+📈 KPIs
+Total Revenue
+Total Admissions
+Placement Rate
+Pending Fees
+Effective Call %
+Average Revenue
+Average Salary
+Collection Efficiency
+
+
+📌 Key Insights
+Executive Dashboard
+Karve Nagar generated the highest revenue.
+Software Testing achieved the highest placement rate.
+Total revenue reached 66M.
+Placement rate stood at 34.85%.
+
+Sales Dashboard
+LinkedIn generated the highest quality leads.
+Effective Call Rate reached 39.34%.
+Lead Conversion Rate remained 31.90%.
+
+Placement Dashboard
+Software Testing achieved the highest placement success.
+Capgemini hired the highest number of students.
+697 students were placed.
+
+Financial Dashboard
+Collection Efficiency reached 79.45%.
+Cash remained the preferred payment mode.
+Total collected fees reached 52M.
+
+💡 Business Recommendations
+Increase investment in LinkedIn marketing.
+Improve counselor performance through training.
+Focus on low-performing branches.
+Reduce pending fee collections using automated reminders.
+Strengthen placement partnerships with top recruiters.
+📂 Dataset
+
+The dataset contains
+
+Students
+Admissions
+Calls
+Leads
+Employees
+Courses
+Placements
+Fees
+⭐ Skills Demonstrated
+Data Cleaning
+Power Query
+Data Modeling
+DAX
+KPI Design
+Dashboard Design
+Business Analysis
+Data Visualization
+👨‍💻 Author
+
+Pratik Kitukale
+
+Data Analyst | Power BI | SQL | Python | Excel
