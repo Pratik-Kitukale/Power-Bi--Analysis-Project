@@ -1,0 +1,15 @@
+As I actively prepare for upcoming Data Analyst placement drives, I’ve been focusing on building projects that demonstrate both backend data manipulation and frontend business intelligence.
+
+For this analysis, I leveraged SQL to query, clean, and structure the raw sales data, and then connected it to Power BI to build a dynamic, multi-page report utilizing a star schema model and custom DAX measures.
+
+📊 Key Dashboard Highlights:
+
+Executive Overview: Tracks core KPIs including Total Sales (769M), Total Quantity (19K), and Average Price. I incorporated a geospatial map to visualize regional sales distribution and analyzed market share across top brands like Apple, OnePlus, Samsung, Vivo, and Xiaomi.
+
+MTD Tracking: A dedicated Month-to-Date report to monitor daily sales momentum and identify precise purchasing trends throughout the month.
+
+Time Intelligence (SPLY): Built custom DAX measures to compare current sales against the Same Period Last Year. This allows for clear, interactive Year-over-Year, Quarter-over-Quarter, and Month-over-Month growth comparisons.
+
+Consumer Insights: Segmented transaction data to uncover customer preferences across payment methods (UPI, Debit/Credit, Cash) and product rating statuses.
+
+Building this multi-page report reinforced my ability to translate complex datasets into actionable, interactive insights using time intelligence and effective data modeling
